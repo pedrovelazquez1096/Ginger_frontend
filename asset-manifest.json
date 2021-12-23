@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ginger_frontend/static/css/main.523f09c5.chunk.css",
+    "main.js": "/Ginger_frontend/static/js/main.d4b9b731.chunk.js",
+    "main.js.map": "/Ginger_frontend/static/js/main.d4b9b731.chunk.js.map",
+    "runtime-main.js": "/Ginger_frontend/static/js/runtime-main.247bf85b.js",
+    "runtime-main.js.map": "/Ginger_frontend/static/js/runtime-main.247bf85b.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Ginger_frontend/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6b93418c.chunk.js": "/Ginger_frontend/static/js/2.6b93418c.chunk.js",
+    "static/js/2.6b93418c.chunk.js.map": "/Ginger_frontend/static/js/2.6b93418c.chunk.js.map",
+    "index.html": "/Ginger_frontend/index.html",
+    "precache-manifest.3a627820dc9e61a2690681ec7e88298c.js": "/Ginger_frontend/precache-manifest.3a627820dc9e61a2690681ec7e88298c.js",
+    "service-worker.js": "/Ginger_frontend/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Ginger_frontend/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/Ginger_frontend/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.6b93418c.chunk.js.LICENSE.txt": "/Ginger_frontend/static/js/2.6b93418c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.247bf85b.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6b93418c.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.d4b9b731.chunk.js"
+  ]
+}
