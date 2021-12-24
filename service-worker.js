@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Ginger_frontend/precache-manifest.d517eb72d171e62591b8eebcd6dcba55.js"
+  "/Ginger_frontend/precache-manifest.75861464a81561e407faf2ef83108c66.js"
 );
 
 self.addEventListener('message', (event) => {
