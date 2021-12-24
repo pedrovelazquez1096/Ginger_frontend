@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5474e1199f97f172ea2f2dc43c7f6ebc",
+    "revision": "798c252c638245d7661fff81176db4b8",
     "url": "/Ginger_frontend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ginger_frontend/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "9b6366506ae8b66f8460",
+    "revision": "d24efd00467947290eae",
     "url": "/Ginger_frontend/static/css/main.523f09c5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ginger_frontend/static/js/2.6b93418c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b6366506ae8b66f8460",
-    "url": "/Ginger_frontend/static/js/main.d4b9b731.chunk.js"
+    "revision": "d24efd00467947290eae",
+    "url": "/Ginger_frontend/static/js/main.5ffa7baf.chunk.js"
   },
   {
     "revision": "7489fc4525dd2f6b3c80",
